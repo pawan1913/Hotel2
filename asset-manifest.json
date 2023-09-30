@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9888e650.css",
+    "main.js": "/static/js/main.9c48fd25.js",
+    "static/media/RAW17.jpg": "/static/media/RAW17.a62d30c2e2be35d0bad8.jpg",
+    "static/media/RAW29.jpg": "/static/media/RAW29.6c5a0d7b73a8c60a3d79.jpg",
+    "static/media/RAW27.jpg": "/static/media/RAW27.ebfa83d8d990bd8bbc0c.jpg",
+    "static/media/RAW25.jpg": "/static/media/RAW25.95b2e36a1edb29db6f9e.jpg",
+    "static/media/RAW12.jpeg": "/static/media/RAW12.5010621a6939ac95a360.jpeg",
+    "static/media/RAW8.jpeg": "/static/media/RAW8.290ada8cb2b63134ee4e.jpeg",
+    "static/media/RAW14.jpeg": "/static/media/RAW14.cf999659242d9d9d94ed.jpeg",
+    "static/media/rhema-kallianpur-uocSnWMhnAs-unsplash.jpg": "/static/media/rhema-kallianpur-uocSnWMhnAs-unsplash.e5fd1e3197c4004b940b.jpg",
+    "static/media/logo1.jpg": "/static/media/logo1.ef4300753c5402761fd0.jpg",
+    "static/media/Gilroy-Light.otf": "/static/media/Gilroy-Light.cc7ab55d27205bd64001.otf",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.9888e650.css.map": "/static/css/main.9888e650.css.map",
+    "main.9c48fd25.js.map": "/static/js/main.9c48fd25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9888e650.css",
+    "static/js/main.9c48fd25.js"
+  ]
+}
